@@ -1,0 +1,251 @@
+body {
+	
+	background-color:LightSlateGray;
+	font-family: Georgia;
+	
+}
+
+
+div#body {
+	
+	width: 100%;
+	padding-top: 3px;
+	background-color: LightSteelBlue;
+	
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	border-radius: 25px 25px 25px 25px;
+	overflow: hidden;
+}
+
+div#header {
+	
+	border-bottom-style:solid;
+	border-bottom-color:DarkSlateGray;
+	max-height: 100px;
+	
+}
+
+div#content {
+
+	position: relative;
+	bottom: 27px;
+
+	width: 100%;
+	
+	min-height: 1000px;
+	
+}
+
+div#footer {
+
+	width: 100%;
+	background-color: Grey;
+	
+	font-size: 110%;
+	
+	min-height: 40px;
+	
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+	border-radius: 25px 25px 25px 25px;
+}
+
+span.event {
+	
+	color: Grey;
+	
+}
+
+h1#mohr {
+	
+	text-align: right;
+	margin-bottom: 50px;
+	margin-right: 20px;
+	text-shadow: 2px 2px 4px #000000;
+}
+
+h1#welcome {
+	position: relative;
+	top: 10px;
+	
+	font-size: 350%;
+	color: white;
+	margin-left: 5px;
+
+}
+p#box {
+	
+	position: relative;
+	top: 10px;
+	
+	font-size: 175%;
+	color: white;
+
+}
+
+p#footer {
+	
+	position: relative;
+	
+	color: white;
+	top: 10px;
+	left: 5px;
+	
+}
+
+a {
+	
+	color: Teal;
+	
+}
+
+a#mailTo {
+	
+	color: Blue;
+	
+}
+
+a:hover {
+	
+	color: DodgerBlue;
+	
+}
+
+a.tabs {
+	border-top-style: solid;
+	border-right-style: solid;
+	border-left-style: solid;
+	
+	position: relative;
+	bottom: 21px;
+
+	font-size: 150%;
+	width: 70%;
+	border-color: DarkSlateGray;
+	border-width: 3px;
+	
+	margin-left: 10px;
+	
+	border-radius: 10px 10px 0px 0px;
+	padding: 3px;
+	
+}
+
+a.tabs:hover {
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	opacity: 50%;
+	bottom: 23px;
+
+}
+
+a#home {
+	
+}
+
+ul#homework {
+	
+	color: white;
+	font-size: 190%;
+	
+}
+
+img#portrait {
+	
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	
+	height: 400px;
+	width: 300px;
+	
+	float: left;
+	border-radius: 25px 25px 25px 25px;
+}
+
+img#newsletter{
+	
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	
+	height: 900px;
+	width: 750px;
+	
+	border-radius: 25px 25px 25px 25px;
+}
+
+img#calendar{
+	
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 10px;	
+	
+	height: 750px;
+	width: 900px;
+	
+	border-radius: 25px 25px 25px 25px;
+}
+
+
+img.imageLeft {
+	
+	width: 400px;
+	height: 400px;
+	
+	margin-left: 25px;
+	margin-right: 10px;
+	
+	float: left;
+	border-radius: 25px 25px 25px 25px;
+}
+
+img.imageRight {
+	
+	width: 400px;
+	height: 400px;
+	
+	margin-left: 10px;
+	margin-right: 25px;
+	
+	float: right;
+	border-radius: 25px 25px 25px 25px;
+}
+table, tr, td.calendar{
+	position:relative;
+	margin-left:auto;
+	margin-right:auto;
+	border-color:black;
+	border-width:1px;
+	border-style:solid;
+	max-width:900px;
+	margin-bottom:100px;
+}
+table.calendar{
+	border-width:2px;
+}
+
+td.{
+	border-color:black;
+	border-width:1px;
+	border-style:solid;
+}
+a#st {
+	
+Font-size:500%;
+
+}
+
+h3 {
+	position: relative;
+	top: 10px;
+	
+	font-size: 250%;
+	color: white;
+	margin-left: 5px;
+}
+
+img.ImageR {
+	
+	Float:left;
+	
+}
